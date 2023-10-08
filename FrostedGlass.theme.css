@@ -17,7 +17,7 @@
   /*
    * Background image variables
    */
-  --background-image: url("https://cdn.discordapp.com/attachments/1146750285910396948/1160588957273301113/111214018_p0.png"); /* Main background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
+  --background-image: url("https://media.discordapp.net/attachments/1146750285910396948/1160592700056281159/img_5e45b5ba1d7964f5_TVdFRHVsOXFtV1JBakFIcExmMlZZSlU4cnhYUGUyWU5xVTNVSWJUajFtdz0.jpg"); /* Main background image | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
   --background-image-blur: 0px; /* Blur intensity of --background-image | Must end in px | DEFAULT: 5px */
   --background-image-size: cover; /* Size of the background image | DEFAUT: cover | OPTIONS: cover, contain */
   --background-image-position: center; /* Position of background image | DEAFULT: center | OPTIONS: top, right, bottom, left, center */
